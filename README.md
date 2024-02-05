@@ -1,4 +1,4 @@
-# Pizzas Sale Analysis Report
+# Pizza Sales Analyst Report
 
 
 ![PizzaSalesReport1](https://github.com/zarnikhinkyi/Power-BI_SQL_Project-PizzaSalesAnalysisReport/assets/77061456/fcb0ec4d-2aca-4f62-a09c-f6e93f5109b5)
@@ -25,6 +25,6 @@
 
 ## Data Used
 - **Data - Pizza Sale data with over 48000 rows**
-- **KPI's Analysis - MS SQL Server Management Studio**
+- **KPI's Analyst - MS SQL Server Management Studio**
 - **Data Cleaning - Power BI power query**
 - **KPI's Building, Data Processing, and Visualization - Power BI**
