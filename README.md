@@ -13,7 +13,7 @@
 - **Total Orders**
 - **Average Pizzas Per Order**
 
-### Charg Requirement
+### Charts Requirement
 - **Daily Trend for Total Orders**
 - **Monthly Trend of Total Orders**
 - **% of Sales by Pizza Category**
