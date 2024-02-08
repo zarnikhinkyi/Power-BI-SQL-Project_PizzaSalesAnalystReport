@@ -1,4 +1,4 @@
-# Pizza Sales Analyst Report
+# Pizza Sales Analytic Report
 
 
 ![PizzaSalesReport1](https://github.com/zarnikhinkyi/Power-BI_SQL_Project-PizzaSalesAnalysisReport/assets/77061456/fcb0ec4d-2aca-4f62-a09c-f6e93f5109b5)
